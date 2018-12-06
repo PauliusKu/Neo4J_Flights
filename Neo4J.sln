@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neo4J", "Neo4J\Neo4J.csproj", "{958971AC-E7B6-4E0D-850E-7DA03F6E6A7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958971AC-E7B6-4E0D-850E-7DA03F6E6A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958971AC-E7B6-4E0D-850E-7DA03F6E6A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958971AC-E7B6-4E0D-850E-7DA03F6E6A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958971AC-E7B6-4E0D-850E-7DA03F6E6A7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E366968-3E8E-4064-9BEE-84DE12DA9E30}
+	EndGlobalSection
+EndGlobal
