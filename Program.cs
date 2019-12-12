@@ -9,7 +9,7 @@ namespace Neo4J
 {
     class Program
     {
-        public static IDriver driver = GraphDatabase.Driver("bolt://localhost:7687", AuthTokens.Basic("neo4j", "labas"));
+        public static IDriver driver = GraphDatabase.Driver("bolt://localhost:11002", AuthTokens.Basic("neo4j", "labas"));
         static void Main(string[] args)
         {
             StartMenu();
